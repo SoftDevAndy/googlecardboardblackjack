@@ -10,6 +10,7 @@
 * Requirements
 * Installation
 * How to play
+* Challenges
 * Technologies used
 
 ## Video
@@ -50,7 +51,20 @@ To leave this loop you choose the option **to stick** and this ends the current 
 
 Once the player runs out of money or the computer. You are placed in a room just to signify the game is over with either You Win or You Lose printed on the walls.
 
-## Technologies used
+## Challenges
+
+The cardboard SDK was very bare bones and had no handles on how to track the movements so I had to source a script that would do it. From there I was able to recognize head movements.
+Tracking head movements even with the api was hard because of the constant headmovements to user makes while wearing the device.
+
+The head nodding and shaking puts a bit of strain on the user because of the weight of the phone and casing for the google cardboard and over time this could get annoying.
+
+Although I didn't think of it at the time the constant head movements might effect people who experience motion sickness because of the slight delay from moving your head to when the phone moves the cameras in the scene. I personally don't experience this but it could prove an issue for other people.
+
+## Technologies and assets used
+
+The model for the AI was developed by an acquaintance and the blackjack table and the room itself was put together by myself from existing assets and textures I sourced.
 
 * [Unity3D 5.2](https://unity3d.com/)
 * [Google Cardboard SDK for Unity](https://developers.google.com/cardboard/unity/)
+* [Head Gesture Recognizer](https://www.assetstore.unity3d.com/en/#!/content/23585)
+* [Casino Assets](https://www.assetstore.unity3d.com/en/#!/content/26557)
