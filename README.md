@@ -1,6 +1,6 @@
 # Project for Gesture Based UI Development - Bad Jack
 
-![Image not found](http://puu.sh/odr5p/c524eb56f7.jpg)
+![Image not found](http://puu.sh/odxZ3/c260df6595.png)
 
 **Badjack was an experimental project to try develop with hardware I've never used before and using gestures outside of what's normally used. Therefore I developed a simplified version of BlackJack where you play against the dealer.**
 
