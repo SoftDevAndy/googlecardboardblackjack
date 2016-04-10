@@ -1,0 +1,21 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Documents\Unity Projects\BlackJack\BlackJack\Main_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.187 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
