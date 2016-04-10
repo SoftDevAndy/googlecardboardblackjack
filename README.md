@@ -6,12 +6,32 @@
 
 ## Contents
 
+* Project
 * Video
 * Requirements
 * Installation
 * How to play
 * Challenges
 * Technologies used
+
+## Project
+
+**Purpose of the application**
+
+Building this application was a completely experimental process for me. I had never used motion gestures before in any of the previous projects worked on. The goal was to create a game that would take advantage of motion gestures and having recently acquired a Google Cardboard I wanted to work with this new hardware. Knowing the target device would be an android mobile phone there was a bunch of features that could be used for gesture detection
+* Camera
+* Gps
+* Accelerometer
+* Microphone
+
+In the end because the primary input for the Google Cardboard being the motion of the users head to view the current scene, It was decided to use the Acceleromter are the primary method to detect head nodding and shaking.
+
+**Gestures identified as appropriate for this application**
+
+Due to using a mobile device and the Google Cardboard SDK I decided the best way to interact with the device would be through using the users head movements. Particularly head nodding and head shaking, for these reasons.
+
+* You are already using your head motion as an input
+* Adding extra avenues of input would lead to confusion or a learning curve e.g using your head to steer, shouting commands, and moving your body completely around around at the same time. It's too much. I wanted the learning curve to be small and the experience to be easy to get into.
 
 ## Video
 
