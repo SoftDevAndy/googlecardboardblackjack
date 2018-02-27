@@ -1,4 +1,4 @@
-# Project for Gesture Based UI Development - Bad Jack
+# googlecardboardblackjack
 
 ![Image not found](http://puu.sh/odxZ3/c260df6595.png)
 
