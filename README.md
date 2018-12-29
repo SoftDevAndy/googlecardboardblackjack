@@ -5,7 +5,6 @@
 ## Contents
 
 * Project
-* Video
 * Requirements
 * Installation
 * How to play
@@ -30,12 +29,6 @@ Due to using a mobile device and the Google Cardboard SDK I decided the best way
 
 * You are already using your head motion as an input
 * Adding extra avenues of input would lead to confusion or a learning curve e.g using your head to steer, shouting commands, and moving your body completely around around at the same time. It's too much. I wanted the learning curve to be small and the experience to be easy to get into.
-
-## Video
-
-Click image below to view the video
-
-[![Video](http://puu.sh/odr5p/c524eb56f7.jpg)](https://www.youtube.com/watch?v=lctQvd9nnng&feature=youtu.be&ab_channel=0Xian0)
 
 ## Requirements
 
