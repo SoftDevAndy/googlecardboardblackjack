@@ -1,9 +1,5 @@
 # googlecardboardblackjack
 
-![Image not found](http://puu.sh/odxZ3/c260df6595.png)
-
-[Powerpoint Slides](https://docs.google.com/presentation/d/1ACtCJcf2wuqVADrmrMixj3HyK4Erg78S3UHy6MJ1poA/edit?usp=sharing)
-
 **Badjack was an experimental project to try develop with hardware I've never used before and using gestures outside of what's normally used. Therefore I developed a simplified version of BlackJack where you play against the dealer.**
 
 ## Contents
